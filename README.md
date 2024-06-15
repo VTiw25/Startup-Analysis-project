@@ -48,11 +48,12 @@ To run this project locally, follow these steps:
 3. Apply filters and view visualizations to gain insights.
 
 ## Project Structure
-
+'''
 startup_details/
 │
 ├── app.py                  # Main Streamlit application file
 ├── startup_cleansed.csv    # Example data file
+'''
 
 
 ## Dependencies
