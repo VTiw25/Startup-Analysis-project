@@ -47,12 +47,15 @@ To run this project locally, follow these steps:
 2. Use the provided interface to explore and analyze the startup details.
 3. Apply filters and view visualizations to gain insights.
 
+## Project Structure
+
+```
 startup_details/
 │
 ├── app.py                  # Main Streamlit application file
-├── startup_cleansed.csv    
-
-
+├── startup_cleansed.csv    # Example data file
+└── README.md               # Project documentation
+```
 
 ## Dependencies
 
@@ -60,7 +63,7 @@ This project uses the following Python packages:
 
 - Streamlit
 - Pandas
-- Matplotlib 
+- Matplotlib (or any other visualization library you are using)
 
 ## Contributing
 
@@ -73,3 +76,6 @@ Contributions are welcome! Please create a pull request or submit an issue if yo
 ## Contact
 
 For any questions or comments, please contact Vaibhav Tiwari(vaibhavtiwari1410@gmail.com).
+```
+
+Replace `https://github.com/yourusername/startup_details.git` with the actual URL of your GitHub repository and update the contact information with your name and email address.
