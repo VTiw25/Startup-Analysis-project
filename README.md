@@ -21,7 +21,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/startup_details.git
+   git clone https://github.com/VTiw25/startup_details.git
    cd startup_details
    ```
 
@@ -76,6 +76,3 @@ Contributions are welcome! Please create a pull request or submit an issue if yo
 ## Contact
 
 For any questions or comments, please contact Vaibhav Tiwari(vaibhavtiwari1410@gmail.com).
-```
-
-Replace `https://github.com/yourusername/startup_details.git` with the actual URL of your GitHub repository and update the contact information with your name and email address.
