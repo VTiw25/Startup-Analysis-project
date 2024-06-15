@@ -1,4 +1,4 @@
-Certainly! Here's a `README.md` template for your Streamlit project that you can copy and paste:
+Here's a README template for your Streamlit project based on your project structure:
 
 ```markdown
 # Startup Details Project
@@ -21,8 +21,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/startup_details_project.git
-   cd startup_details_project
+   git clone https://github.com/yourusername/startup_details.git
+   cd startup_details
    ```
 
 2. **Create and activate a virtual environment (optional but recommended):**
@@ -49,15 +49,11 @@ To run this project locally, follow these steps:
 
 ## Project Structure
 
-```
-startup_details_project/
+startup_details/
 │
 ├── app.py                  # Main Streamlit application file
-├── data/                   # Directory for data files
-│   └── startups.csv        # Example data file
-├── requirements.txt        # List of dependencies
-└── README.md               # Project documentation
-```
+├── startup_cleansed.csv    # Example data file
+
 
 ## Dependencies
 
@@ -65,7 +61,7 @@ This project uses the following Python packages:
 
 - Streamlit
 - Pandas
-- Matplotlib (or any other visualization library you are using)
+- Matplotlib 
 
 ## Contributing
 
@@ -77,7 +73,4 @@ Contributions are welcome! Please create a pull request or submit an issue if yo
 
 ## Contact
 
-For any questions or comments, please contact [yourname](mailto:youremail@example.com).
-```
-
-Replace `https://github.com/yourusername/startup_details_project.git` with the actual URL of your GitHub repository and update the contact information with your name and email address.
+For any questions or comments, please contact Vaibhav Tiwari(vaibhavtiwari1410@gmail.com).
