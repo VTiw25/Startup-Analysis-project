@@ -53,8 +53,8 @@ To run this project locally, follow these steps:
 startup_details/
 │
 ├── app.py                  # Main Streamlit application file
-├── startup_cleansed.csv    # Example data file
-└── README.md               # Project documentation
+├── startup_cleansed.csv    
+
 ```
 
 ## Dependencies
